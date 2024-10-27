@@ -11,6 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 import { toast } from 'react-toastify';
 import Footer from './components/Footer';
+import FooterTop from './components/FooterTop';
 
 function App() {
   const [coins, setCoins] = useState(0);
@@ -74,6 +75,7 @@ function App() {
       </div>
 
       <ToastContainer />
+      <FooterTop></FooterTop>
       <Footer></Footer>
       
     </>

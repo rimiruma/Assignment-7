@@ -26,11 +26,11 @@ const Players = ({ selectedPlayers, togglePlayerSelection }) => {
   };
   return (
     <div>
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center ml-10">
         <h1 className="mt-20 text-3xl font-bold mb-10">
           {showSelected ? "Selected Players" : "Available Players"}
         </h1>
-        <div className="flex gap-5">
+        <div className="flex gap-5 mr-10">
           <button className="btn bg-[#E7FE29] rounded-full px-10" onClick={() => setShowSelected(false)}>Available</button>
           <button className="btn bg-[#E7FE29] rounded-full px-10" onClick={() => setShowSelected(true)}>Selected ({selectedPlayers.length})</button>
         </div>
@@ -82,7 +82,7 @@ const Players = ({ selectedPlayers, togglePlayerSelection }) => {
 
           :
 
-          <div className="grid gap-5 grid-cols-3">
+          <div className="grid gap-5 grid-cols-3 mb-20">
             {displayedPlayers.map(player => (
               <div key={player.id} className="card bg-base-100 border">
                 <figure className="player h-[200px] w-[350px] mx-auto object-cover">

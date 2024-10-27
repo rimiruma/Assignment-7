@@ -2,7 +2,7 @@ import footer from'../assets/footer.png'
 
 const Footer = () => {
   return (
-    <div className="bg-black py-20 w-[1280px] mx-auto">
+    <div className="bg-black py-20 w-[1200px] mx-auto">
       <div className='flex justify-center'>
         <img src={footer} alt="" />
       </div>
@@ -36,7 +36,7 @@ const Footer = () => {
                     className="input input-bordered mt-3 p-2 join-item" />
                 </div>
                 <div>
-                  <button className="btn btn-primary join-item p-2 border w-[100px] mt-3 bg-orange-300">Subscribe</button>
+                  <button className="btn btn-primary text-black join-item p-2 border w-[100px] mt-3 bg-orange-300">Subscribe</button>
                 </div>
               </div>
             </div>

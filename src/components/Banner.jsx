@@ -18,7 +18,7 @@ const Banner = ({ addCoins }) => {
 
 
   return (
-    <div>
+    <div className='w-[1200px] mx-auto'>
       <div className="bg-black text-center py-20 rounded-xl mt-10">
         <img className="mx-auto mb-7" src={banner} alt="" />
         <h1 className="text-4xl font-bold mb-5 text-white">Assemble Your Ultimate Dream 11 Cricket Team</h1>

@@ -4,7 +4,7 @@ import coin from '../assets/coin.png'
 
 const Header = ({ coins }) => {
     return (
-        <div className='flex justify-between'>
+        <div className='flex justify-between w-[1200px] mx-auto'>
             <img src={logo} alt="" />
             <div className='flex items-center text-gray-400 font-bold gap-10'>
                 <p>Home</p>
