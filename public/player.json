@@ -1,0 +1,93 @@
+[
+    {
+      "player_id": "P001",
+      "player_image": "https://i.ibb.co.com/4sVLQfS/bouncer1.jpg",
+      "player_name": "John Smith",
+      "player_country": "Australia",
+      "player_role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "batting_price": 150000
+    },
+    {
+      "player_id": "P002",
+      "player_image": "https://i.ibb.co.com/ZVD2nCP/photography-2.jpg",
+      "player_name": "Carlos Miguel",
+      "player_country": "West Indies",
+      "player_role": "All-rounder",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Right-arm Medium",
+      "batting_price": 120000
+    },
+    {
+      "player_id": "P003",
+      "player_image": "https://i.ibb.co.com/zQMNqts/picture-poet-3.jpg",
+      "player_name": "Rohit Kumar",
+      "player_country": "India",
+      "player_role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "None",
+      "batting_price": 180000
+    },
+    {
+      "player_id": "P004",
+      "player_image": "https://i.ibb.co.com/JQMRMZc/picture-poet4.jpg",
+      "player_name": "James Black",
+      "player_country": "England",
+      "player_role": "Bowler",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Left-arm Fast",
+      "batting_price": 110000
+    },
+    {
+      "player_id": "P005",
+      "player_image": "https://i.ibb.co.com/68nGf6F/chris-chow5.jpg",
+      "player_name": "Ahmed Salah",
+      "player_country": "Pakistan",
+      "player_role": "All-rounder",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Legbreak",
+      "batting_price": 130000
+    },
+    {
+      "player_id": "P006",
+      "player_image": "https://i.ibb.co.com/vJ291Y1/morales6.jpg",
+      "player_name": "Liam Chen",
+      "player_country": "New Zealand",
+      "player_role": "Bowler",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "batting_price": 90000
+    },
+    {
+      "player_id": "P007",
+      "player_image": "https://i.ibb.co.com/myZJTyK/michael-weir7.jpg",
+      "player_name": "David Lin",
+      "player_country": "South Africa",
+      "player_role": "Batsman",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "None",
+      "batting_price": 170000
+    },
+    {
+      "player_id": "P008",
+      "player_image": "https://i.ibb.co.com/0mC6C8d/michael-weir8.jpg",
+      "player_name": "Kiran Mehta",
+      "player_country": "Sri Lanka",
+      "player_role": "Wicketkeeper",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "None",
+      "batting_price": 95000
+    },
+    {
+      "player_id": "P009",
+      "player_image": "https://i.ibb.co.com/zQMNqts/picture-poet-3.jpg",
+      "player_name": "Ethan Torres",
+      "player_country": "Bangladesh",
+      "player_role": "Bowler",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Left-arm Spin",
+      "batting_price": 85000
+    }
+  ]
+  
