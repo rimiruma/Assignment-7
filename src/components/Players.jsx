@@ -59,7 +59,7 @@ const Players = ({ selectedPlayers, togglePlayerSelection }) => {
 
 
                     <div className="flex justify-between">
-                      <p>{player.Left_Hand_Bat}</p>
+                      <p>{player.batting_type}</p>
 
                     </div>
                     <div className="card-actions  justify-end">
